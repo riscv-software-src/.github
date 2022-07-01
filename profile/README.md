@@ -9,7 +9,7 @@ source projects.
 Things you'll find here include:
 - Spike, a RISC-V Simulator
 - riscof, the RISC-V Architectural Test Framework
-- opensbi, the RISC-V Open Source Supervisor Binary Interface
+- opensbi, a RISC-V Supervisor Binary Interface reference implementation
 
 If you don't find what you're looking for here, try one of our other GitHub organizations:
 
