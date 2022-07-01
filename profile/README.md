@@ -2,7 +2,7 @@
 
 ![RISC-V Logo](https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg)
 
-These repos consist of RISC-V software that has been donated to RISC-V
+These repos consist of RISC-V software that is maintained by RISC-V
 International. These repositories represent upstream sources for many open
 source projects.
 
